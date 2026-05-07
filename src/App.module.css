@@ -1,0 +1,21 @@
+.tableHeader {
+  text-align: left;
+  padding: var(--space-2xs) var(--space-s) var(--space-2xs) 0;
+  border-bottom: 1px solid rgb(var(--color-primary-700));
+}
+
+.tableCell {
+  padding: var(--space-2xs) var(--space-s) var(--space-2xs) 0;
+}
+
+.inputLabelWrapper {
+  display: flex;
+  gap: var(--space-s);
+  margin-bottom: var(--space-xl);
+}
+
+.formLabel {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
