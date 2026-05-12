@@ -120,7 +120,7 @@ function App() {
   }
 
   return (
-    <div>
+    <div style={{ margin: "0 auto", maxWidth: "100%" }}>
       <h1>Scheduling Shifts</h1>
       <section style={{ marginBottom: 32 }}>
         <h2>Caregivers</h2>
